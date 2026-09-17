@@ -1,0 +1,8 @@
+{
+  "name": "sansthaein-aur-samvidhan",
+  "version": "1.0.0",
+  "description": "Terminal games to learn Parts V & VI of the Constitution of India",
+  "type": "module",
+  "bin": { "samvidhan": "app.js" },
+  "scripts": { "start": "node app.js" }
+}
